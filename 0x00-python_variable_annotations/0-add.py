@@ -2,7 +2,7 @@
 ''' Task 0 '''
 
 
-def add(a : float, b : float) -> float:
+def add(a: float, b: float) -> float:
     '''
     Function to add two floating point numbers.
 

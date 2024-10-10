@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 ''' floor function '''
 
-def floor(a : float) -> int:
+def floor(a: float) -> int:
     '''
     Calculate the floor value of a given float number.
 
